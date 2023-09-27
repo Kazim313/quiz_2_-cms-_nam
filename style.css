@@ -1,0 +1,24 @@
+/* Set the background color of the whole web page */
+body {
+    background-color: #f0f0f0; /* You can change this color to your preference */
+  }
+  
+  /* Style the navigation bar */
+  .navbar {
+    background-color: red; /* Set the navbar background color to red */
+    color: white; /* Set the text color inside the navbar to white */
+    padding: 10px; /* Add some padding for better visual appearance */
+  }
+  
+  /* Style the navigation links */
+  .navbar a {
+    color: white; /* Set the color of the links inside the navbar to white */
+    text-decoration: none; /* Remove underlines from links */
+    margin: 0 10px; /* Add spacing between links */
+  }
+  
+  /* Change link color when hovering over them */
+  .navbar a:hover {
+    color: #f0f0f0; /* Change link color to a lighter shade when hovering */
+  }
+  
